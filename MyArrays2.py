@@ -10,7 +10,7 @@ c = grades.max()
 d = grades.mean()
 e = grades.std()
 f = grades.var()
-
+print(a)
 g = grades.mean(axis=0)
 # gives us the average for each COLUMN
 # in this circumstance, its the avg per test
